@@ -55,7 +55,7 @@ public class Quest extends Game {
 		levelEl = levelLoader.loadLevel("myLevel");
 		
 		// 04 Load pictures
-		List<BufferedImage> imgs = loadHeroImage("alice");
+		List<BufferedImage> imgs = loadHeroImage("girl");
 
 		// 05 Create hero
 		hero = new Hero(50, 50, imgs);
