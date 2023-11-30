@@ -91,7 +91,6 @@ public class CentralLevel extends Level {
 
 	@Override
 	public boolean exit() {
-		// TODO Auto-generated method stub
 		return exit;
 	}
 

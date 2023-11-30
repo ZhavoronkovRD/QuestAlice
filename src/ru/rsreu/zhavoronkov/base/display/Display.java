@@ -96,6 +96,5 @@ public class Display {
 	public static JFrame getWindow() {
 		return window;
 	}
-	
-	
+
 }
